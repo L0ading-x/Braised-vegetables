@@ -4,5 +4,5 @@
 希望师父们多多给star。
 
 # how to use?
-run it by cmd
-## subfinder -dL test.txt -o subfinder.txt -silent|ksubdomain -verify -summary -o ksubdomain.txt -silent|naabu -exclude-cdn -o naabu.txt -silent|httpx -silent > targets.txt && python launcher.py && copy targets.txt C:\Users\Administrator\Desktop\crawlergo_x_XRAY-master\crawlergo_x_XRAY-master\crawlergo\dirsearch-master && cd dirsearch-master && python dirsearch.py -l targets.txt -e *
+## run it by cmd
+subfinder -dL test.txt -o subfinder.txt -silent|ksubdomain -verify -summary -o ksubdomain.txt -silent|naabu -exclude-cdn -o naabu.txt -silent|httpx -silent > targets.txt && python launcher.py && copy targets.txt C:\Users\Administrator\Desktop\crawlergo_x_XRAY-master\crawlergo_x_XRAY-master\crawlergo\dirsearch-master && cd dirsearch-master && python dirsearch.py -l targets.txt -e *
